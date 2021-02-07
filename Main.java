@@ -162,7 +162,7 @@ public class Main extends Application {
                     
                     scene.setOnMouseClicked(new EventHandler<MouseEvent>() {
     
-                      //TO GET THE FULL CODE, SEND ME A MAIL AT ayushk0412@gmail.com, WITH THE SUBJECT "CODE REQUIRED"
+                      //TO GET THE FULL CODE, SEND ME A MAIL AT ronakprasad@gmail.com, WITH THE SUBJECT "CODE REQUIRED"
 
     
 }
